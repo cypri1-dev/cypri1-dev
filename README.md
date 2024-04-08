@@ -1,5 +1,5 @@
 ### 
-<h1 align="center">🖳 Hi there, i'm Cyprien 🖳</h1>
+<h1 align="center">🖥️ Hi there, i'm Cyprien 🖥️</h1>
 
 ###
 <p align="center">

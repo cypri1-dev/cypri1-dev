@@ -40,7 +40,7 @@ Today, I am looking for opportunities to leverage my skills and passion to contr
 
 ## Tools
 <p align="center">
-  <img src="https://skillicons.dev/arduino?i=c" height="48" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="48" />
   <img src="https://skillicons.dev/icons?i=bash" height="48" />
   <img src="https://skillicons.dev/icons?i=discord" height="48" />
   <img src="https://skillicons.dev/icons?i=github" height="48" />

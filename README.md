@@ -34,6 +34,8 @@ Today, I am looking for opportunities to leverage my skills and passion to contr
 ## Languages
 <p align="center">
    <img src="https://skillicons.dev/icons?i=c" height="48" />
+  <img src="https://skillicons.dev/icons?i=html" height="48" />
+  <img src="https://skillicons.dev/icons?i=css" height="48" />
 </p>
 
 ## Tools

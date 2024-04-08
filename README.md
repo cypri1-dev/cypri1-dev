@@ -66,18 +66,18 @@ Feel free to explore my GitHub profile to learn more about my projects and skill
 
 ## Stats
 <p align="center">
-  <a href="https://github.com/raveriss">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=raveriss&show_icons=true&theme=tokyonight" alt="Rafael's GitHub Stats" />
-  <a href="https://github.com/raveriss">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raveriss&theme=tokyonight" alt="Rafael's GitHub Streak" />
+  <a href="https://github.com/cypri1-dev">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=cypri1-dev&show_icons=true&theme=tokyonight" alt="Cypri1-dev's GitHub Stats" />
+  <a href="https://github.com/cypri1-dev">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cypri1-dev&theme=tokyonight" alt="Cypri1-dev's GitHub Streak" />
   </a>
   <!-- La carte de graphique de contributions pourrait être temporairement enlevée si elle ne s'affiche pas correctement -->
-  <!-- <a href="https://github.com/raveriss">
-    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=raveriss&theme=github" alt="Rafael's Contribution Graph" />
+  <!-- <a href="https://github.com/cypri1-dev">
+    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=cypri1-dev&theme=github" alt="Cypri1-dev's Contribution Graph" />
   </a> -->
 </p>
 
 <p align="center">
-  <a href="https://github.com/raveriss">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raveriss&layout=compact&theme=tokyonight" />
+  <a href="https://github.com/Cypri1-dev's">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cypri1-dev's&layout=compact&theme=tokyonight" />
   </a>

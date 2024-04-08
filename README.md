@@ -5,13 +5,13 @@
 <p align="center">
   <!-- Badges GitHub Followers et Stars -->
   <a href="https://github.com/cypri1-dev?tab=followers">
-    <img src="https://img.shields.io/github/followers/raveriss?style=flat" alt="Github Followers"/>
+    <img src="https://img.shields.io/github/followers/cypri1-dev?style=flat" alt="Github Followers"/>
   </a>
-  <a href="https://github.com/raveriss?tab=repositories">
-    <img src="https://img.shields.io/github/stars/raveriss?style=flat" alt="Github Stars"/>
+  <a href="https://github.com/cypri1-dev?tab=repositories">
+    <img src="https://img.shields.io/github/stars/cypri1-dev?style=flat" alt="Github Stars"/>
   </a>
   <!-- Badge Visites avec style cohérent -->
-  <img src="https://komarev.com/ghpvc/?username=raveriss&color=blue&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=cypri1-dev&color=blue&style=flat" alt="profile views" />
   <!-- Badge Email personnalisé avec shields.io -->
   <a href="mailto:verissimo.r@gmail.com">
     <img src="https://img.shields.io/static/v1?label=&message=verissimo.r%40gmail.com&color=blue&logo=gmail&logoColor=red&style=flat&labelColor=grey" alt="Email"/>

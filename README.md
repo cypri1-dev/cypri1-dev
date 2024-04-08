@@ -79,5 +79,5 @@ Feel free to explore my GitHub profile to learn more about my projects and skill
 
 <p align="center">
   <a href="https://github.com/Cypri1-dev's">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cypri1-dev's&layout=compact&theme=tokyonight" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cypri1-dev&layout=compact&theme=tokyonight" />
   </a>

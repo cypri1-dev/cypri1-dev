@@ -13,10 +13,10 @@
   <!-- Badge Visites avec style cohérent -->
   <img src="https://komarev.com/ghpvc/?username=cypri1-dev&color=blue&style=flat" alt="profile views" />
   <!-- Badge Email personnalisé avec shields.io -->
-  <a href="mailto:verissimo.r@gmail.com">
-    <img src="https://img.shields.io/static/v1?label=&message=verissimo.r%40gmail.com&color=blue&logo=gmail&logoColor=red&style=flat&labelColor=grey" alt="Email"/>
+  <a href="mailto:ferreiracyrien@gmail.com">
+    <img src="https://img.shields.io/static/v1?label=&message=ferreiracyprien%40gmail.com&color=blue&logo=gmail&logoColor=red&style=flat&labelColor=grey" alt="Email"/>
   </a>
-    <a href="https://www.linkedin.com/in/rafael-verissimo-8b382b20b/">
+    <a href="https://www.linkedin.com/in/cyprien-ferreira-bb7626208">
     <img src="https://img.shields.io/badge/-Rafael%20Verissimo-blue?style=flat&logo=linkedin&logoColor=white&style=flat&labelColor=grey" alt="LinkedIn"/>
   </a>
   <div style="text-align: justify; color: #555;">

@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/static/v1?label=&message=ferreiracyprien%40gmail.com&color=blue&logo=gmail&logoColor=red&style=flat&labelColor=grey" alt="Email"/>
   </a>
     <a href="https://www.linkedin.com/in/cyprien-ferreira-bb7626208">
-    <img src="https://img.shields.io/badge/-Rafael%20Verissimo-blue?style=flat&logo=linkedin&logoColor=white&style=flat&labelColor=grey" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-Cyprien%20Ferreira-blue?style=flat&logo=linkedin&logoColor=white&style=flat&labelColor=grey" alt="LinkedIn"/>
   </a>
   <div style="text-align: justify; color: #555;">
 </p>

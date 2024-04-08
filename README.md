@@ -13,7 +13,7 @@
   <!-- Badge Visites avec style cohérent -->
   <img src="https://komarev.com/ghpvc/?username=cypri1-dev&color=blue&style=flat" alt="profile views" />
   <!-- Badge Email personnalisé avec shields.io -->
-  <a href="mailto:ferreiracyrien@gmail.com">
+  <a href="mailto:ferreiracyprien@gmail.com">
     <img src="https://img.shields.io/static/v1?label=&message=ferreiracyprien%40gmail.com&color=blue&logo=gmail&logoColor=red&style=flat&labelColor=grey" alt="Email"/>
   </a>
     <a href="https://www.linkedin.com/in/cyprien-ferreira-bb7626208">
@@ -33,11 +33,7 @@ Today, I am looking for opportunities to leverage my skills and passion to contr
 
 ## Languages
 <p align="center">
-    <img src="https://github.com/raveriss/skill-icons/blob/main/C.png" height="48" />
-    <img src="https://github.com/raveriss/skill-icons/blob/main/CPP.png" height="48" />
-    <img src="https://github.com/raveriss/skill-icons/blob/main/JavaScript.png" height="48" />
-    <img src="https://github.com/raveriss/skill-icons/blob/main/HTML.png" height="48" />
-    <img src="https://github.com/raveriss/skill-icons/blob/main/CSS.png" height="48" />
+    [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
 </p>
 
 ## Tools

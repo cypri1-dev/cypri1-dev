@@ -1,5 +1,5 @@
 ### 
-<h1 align="center">🖥️ <img href="[https://github.com/account](https://avatars.githubusercontent.com/u/71982246?s=400&u=c621da03fa812ffbbd33efc12fc183aef0c15416&v=4)"> 🖥️</h1>
+<h1 align="center">🖥️ <img src="https://avatars.githubusercontent.com/u/71982246?v=4"> 🖥️</h1>
 
 ###
 <p align="center">

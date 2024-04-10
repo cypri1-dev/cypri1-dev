@@ -56,7 +56,6 @@ Feel free to explore my GitHub profile to learn more about my projects and skill
   <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
   <img src="https://skillicons.dev/icons?i=linux" height="48" />
   <img src="https://skillicons.dev/icons?i=sketchup" height="48" />
-  <img src="https://skillicons.dev/icons?i=c" height="48" />
   <img src="https://skillicons.dev/icons?i=ubuntu" height="48" />
   <img src="https://skillicons.dev/icons?i=vscode" height="48" />
   <img src="https://skillicons.dev/icons?i=vim" height="48" />

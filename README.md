@@ -12,7 +12,7 @@
   </a>
   <!-- Badge Visites avec style cohérent -->
   <img src="https://komarev.com/ghpvc/?username=cypri1-dev&color=blue&style=flat" alt="profile views" />
-  <!-- Badge Email personnalisé avec shields.io -->
+
   <a href="mailto:ferreiracyprien@gmail.com">
     <img src="https://img.shields.io/static/v1?label=&message=ferreiracyprien%40gmail.com&color=blue&logo=gmail&logoColor=red&style=flat&labelColor=grey" alt="Email"/>
   </a>

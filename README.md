@@ -65,13 +65,13 @@ Feel free to explore my GitHub profile to learn more about my projects and skill
 
 ## 42 Badges
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/pipexm.png" height="85"/>
   <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/libftm.png" height="85"/>
   <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/born2berootm.png" height="85" />
   <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/ft_printfe.png" height="85" />
   <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/get_next_linem.png" height="85" />
   <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/so_longm.png" height="85" />
   <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/push_swapm.png" height="85" />
+  <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/pipexm.png" height="85"/>
   
 </p>
 

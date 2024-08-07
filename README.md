@@ -1,6 +1,3 @@
-### 
-<h1 align="center"> <img src="https://media.licdn.com/dms/image/D4E22AQF98IqLFaTefw/feedshare-shrink_480/0/1712752336077?e=1715817600&v=beta&t=KX_-lIrx_rzAWusTx2KjPFRqC2pi9GaSFNBCspdam1Q" </h1>
-
 ###
 <p align="center">
   <!-- Badges GitHub Followers et Stars -->

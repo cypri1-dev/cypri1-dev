@@ -69,6 +69,7 @@ Feel free to explore my GitHub profile to learn more about my projects and skill
   <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/so_longm.png" height="85" />
   <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/push_swapm.png" height="85" />
   <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/pipexm.png" height="85"/>
+  <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/minishelln.png" height="85"/>
   
 </p>
 

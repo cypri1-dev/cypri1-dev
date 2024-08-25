@@ -1,3 +1,6 @@
+##
+![GIF](https://github.com/cypri1-dev/cypri1-dev/blob/main/src/8a11d332-1e30-4fb9-b889-a3247254b09c.gif)
+##
 ###
 <p align="center">
   <!-- Badges GitHub Followers et Stars -->

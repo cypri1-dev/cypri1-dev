@@ -74,6 +74,7 @@ Feel free to explore my GitHub profile to learn more about my projects and skill
   <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/pipexm.png" height="85"/>
   <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/minishelle.png" height="85"/>
   <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/philosopherse.png" height="85"/>
+  <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/netpracticem.png" height="85"/>
   
 </p>
 

@@ -84,7 +84,7 @@ Feel free to explore my GitHub profile to learn more about my projects and skill
   <a href="https://github.com/cypri1-dev">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=cypri1-dev&show_icons=true&theme=tokyonight" alt="Cypri1-dev's GitHub Stats" />
   <a href="https://github.com/cypri1-dev">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cypri1-dev&theme=tokyonight" alt="Cypri1-dev's GitHub Streak" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cypri1-dev&show_icons=true&theme=tokyonight" alt="Cypri1-dev's GitHub Streak" />
   </a>
   <!-- La carte de graphique de contributions pourrait être temporairement enlevée si elle ne s'affiche pas correctement -->
   <!-- <a href="https://github.com/cypri1-dev">

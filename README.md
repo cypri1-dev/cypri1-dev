@@ -44,6 +44,8 @@ Feel free to explore my GitHub profile to learn more about my projects and skill
   <img src="https://skillicons.dev/icons?i=c" height="48" />
   <img src="https://skillicons.dev/icons?i=html" height="48" />
   <img src="https://skillicons.dev/icons?i=css" height="48" />
+  <img src="https://skillicons.dev/icons?i=python" height="48" />
+  
 </p>
 
 ## Tools

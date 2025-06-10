@@ -46,18 +46,18 @@ Feel free to explore my GitHub profile to learn more about my projects and skill
   <img src="https://skillicons.dev/icons?i=css" height="48" />
   <img src="https://skillicons.dev/icons?i=javascript" height="48" />
   <img src="https://skillicons.dev/icons?i=typescript" height="48" />
-  <img src="https://skillicons.dev/icons?i=postgresql" height="48" />
-  <img src="https://skillicons.dev/icons?i=tailwindcss" height="48" />
+  <img src="https://skillicons.dev/icons?i=bash" height="48" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="48" />
   
 </p>
 
 ## Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=arduino" height="48" />
-  <img src="https://skillicons.dev/icons?i=bash" height="48" />
   <img src="https://skillicons.dev/icons?i=discord" height="48" />
   <img src="https://skillicons.dev/icons?i=github" height="48" />
   <img src="https://skillicons.dev/icons?i=gmail" height="48" />
+  <img src="https://skillicons.dev/icons?i=markdown" height="48" />
   <img src="https://skillicons.dev/icons?i=instagram" height="48" />
   <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
   <img src="https://skillicons.dev/icons?i=linux" height="48" />
@@ -72,8 +72,10 @@ Feel free to explore my GitHub profile to learn more about my projects and skill
   <img src="https://skillicons.dev/icons?i=stackoverflow" height="48" />
   <img src="https://skillicons.dev/icons?i=npm" height="48" />
   <img src="https://skillicons.dev/icons?i=notion" height="48" />
-  <img src="https://skillicons.dev/icons?i=markdown" height="48" />
-  
+  <img src="https://skillicons.dev/icons?i=tailwindcss" height="48" />
+  <img src="https://skillicons.dev/icons?i=docker" height="48" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="48" />
+
 </p>
 
 ## 42 Badges
@@ -90,6 +92,8 @@ Feel free to explore my GitHub profile to learn more about my projects and skill
   <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/netpracticem.png" height="85"/>
   <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/cppm.png" height="85"/>
   <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/ft_irce.png" height="85"/>
+  <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/inceptione.png" height="85"/>
+  <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/ft_transcendencem.png" height="85"/>
   
 </p>
 

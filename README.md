@@ -44,7 +44,10 @@ Feel free to explore my GitHub profile to learn more about my projects and skill
   <img src="https://skillicons.dev/icons?i=c" height="48" />
   <img src="https://skillicons.dev/icons?i=html" height="48" />
   <img src="https://skillicons.dev/icons?i=css" height="48" />
-  <img src="https://skillicons.dev/icons?i=python" height="48" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="48" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="48" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="48" />
+  <img src="https://skillicons.dev/icons?i=tailwindcss" height="48" />
   
 </p>
 
@@ -64,6 +67,13 @@ Feel free to explore my GitHub profile to learn more about my projects and skill
   <img src="https://skillicons.dev/icons?i=vim" height="48" />
   <img src="https://skillicons.dev/icons?i=windows" height="48" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="48" />
+  <img src="https://skillicons.dev/icons?i=vite" height="48" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="48" />
+  <img src="https://skillicons.dev/icons?i=stackoverflow" height="48" />
+  <img src="https://skillicons.dev/icons?i=npm" height="48" />
+  <img src="https://skillicons.dev/icons?i=notion" height="48" />
+  <img src="https://skillicons.dev/icons?i=markdown" height="48" />
+  
 </p>
 
 ## 42 Badges
@@ -80,7 +90,6 @@ Feel free to explore my GitHub profile to learn more about my projects and skill
   <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/netpracticem.png" height="85"/>
   <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/cppm.png" height="85"/>
   <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/ft_irce.png" height="85"/>
-  
   
 </p>
 

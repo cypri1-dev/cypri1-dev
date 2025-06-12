@@ -26,15 +26,7 @@
 
 <div>
 
-I am Cyprien, a programming enthusiast currently studying at [École 42](https://42.fr/en/homepage/), with the aim of obtaining the title of Expert in Computer Architecture, a level 7 certification recognized in the National Directory of Professional Certifications ([RNCP](https://www.francecompetences.fr/recherche/rncp/36137/).). My educational background and experiences have led me to embrace the path of technology, where I continually strive to acquire new skills and develop my expertise.
-
-My main goal is to become a versatile professional in the field of programming. To achieve this goal, I am fully committed to learning various programming languages as well as mastering emerging tools and technologies.
-
-Through my GitHub profile, I share my projects, achievements, and contributions to open-source projects. I consider this platform as a showcase of my work and skills, and I am always open to collaborations and opportunities for mutual learning.
-
-I strongly believe in the importance of staying constantly updated with the latest technological advancements and in the value of collaboration to drive innovation. With determination and dedication, I continue my journey in the world of programming, ready to take on new challenges and contribute to the progress of technology.
-
-Feel free to explore my GitHub profile to learn more about my projects and skills. I am also available for any discussions or potential collaborations.
+Développeur junior passionné par la création de solutions innovantes, je cherche à acquérir de l’expérience pratique pour contribuer efficacement à des projets ambitieux. Motivé et curieux, je vise à devenir un expert reconnu dans le développement logiciel.
 
 </div>
 
